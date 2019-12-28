@@ -18,7 +18,7 @@ Nesse curso você também irá aprender os paradigmas de programação usados na
     - Seção 2: Configuração do Ambiente (Concluído: 23/12/2019)
     - Seção 3: Javascript: Fundamentos (Concluído: 24/12/2019)
     - Seção 4: Javascript: Estruturas de Controle (Concluído: 25/12/2019)
-    - Seção 5: Javascript: Função
+    - Seção 5: Javascript: Função (Concluído: 28/12/2019)
     - Seção 6: Javascript: Objeto
     - Seção 7: Javascript: Array
     - Seção 8: Node
