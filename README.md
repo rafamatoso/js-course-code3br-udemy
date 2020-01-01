@@ -20,7 +20,7 @@ Nesse curso você também irá aprender os paradigmas de programação usados na
     - Seção 4: Javascript: Estruturas de Controle (Concluído: 25/12/2019)
     - Seção 5: Javascript: Função (Concluído: 28/12/2019)
     - Seção 6: Javascript: Objeto (Concluído: 29/12/2019)
-    - Seção 7: Javascript: Array
+    - Seção 7: Javascript: Array (Concluído: 01/01/2020)
     - Seção 8: Node
     - Seção 9: ESNext
     - Seção 10: Conceitos sobre Web
