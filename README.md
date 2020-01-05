@@ -25,7 +25,7 @@ Nesse curso você também irá aprender os paradigmas de programação usados na
 |   7    |             Javascript: Array             | 01/01/2020 |
 |   8    |                   Node                    | 03/01/2020 |
 |   9    |                  ESNext                   | 04/01/2020 |
-|   10   |            Conceitos sobre Web            |            |
+|   10   |            Conceitos sobre Web            | 05/01/2020 |
 |   11   |                   HTML                    |            |
 |   12   |                    CSS                    |            |
 |   13   |         Integrando HTML, CSS e JS         |            |
