@@ -14,36 +14,38 @@ Nesse curso você também irá aprender os paradigmas de programação usados na
 
 # Conteúdo do Curso:
 
-    - Seção 1: Introdução Curso Web (Concluído: 23/12/2019)
-    - Seção 2: Configuração do Ambiente (Concluído: 23/12/2019)
-    - Seção 3: Javascript: Fundamentos (Concluído: 24/12/2019)
-    - Seção 4: Javascript: Estruturas de Controle (Concluído: 25/12/2019)
-    - Seção 5: Javascript: Função (Concluído: 28/12/2019)
-    - Seção 6: Javascript: Objeto (Concluído: 29/12/2019)
-    - Seção 7: Javascript: Array (Concluído: 01/01/2020)
-    - Seção 8: Node (Concluído: 03/01/2020)
-    - Seção 9: ESNext
-    - Seção 10: Conceitos sobre Web
-    - Seção 11: HTML
-    - Seção 12: CSS
-    - Seção 13: Integrando HTML, CSS e JS
-    - Seção 14: Ajax
-    - Seção 15: Gulp
-    - Seção 16: Webpack
-    - Seção 17: jQuery
-    - Seção 18: Bootstrap
-    - Seção 19: Projeto Galeria (Bootstrap/jQuery/Webpack)
-    - Seção 20: React
-    - Seção 21: Projeto Calculadora
-    - Seção 22: Projeto Cadastro de Usuário
-    - Seção 23: VueJS
-    - Seção 24: Projetos VueJS
-    - Seção 25: Projeto Calculadora (Vue)
-    - Seção 26: Projeto Monty Hall (Vue)
-    - Seção 27: Banco Relacional
-    - Seção 28: Banco Não Relacional
-    - Seção 29: Express
-    - Seção 30: Projeto Base de Conhecimento • Backend
-    - Seção 31: Projeto Base de Conhecimento • Frontend
-    - Seção 32: Publicando uma Aplicação VueJS na Amazon
-    - Seção 33: Conclusão
+| Sessão |                  Título                   | Conclusão  |
+| :----: | :---------------------------------------: | :--------: |
+|   1    |           Introdução Curso Web            | 23/12/2019 |
+|   2    |         Configuração do Ambiente          | 23/12/2019 |
+|   3    |          Javascript: Fundamentos          | 24/12/2019 |
+|   4    |    Javascript: Estruturas de Controle     | 25/12/2019 |
+|   5    |            Javascript: Função             | 28/12/2019 |
+|   6    |            Javascript: Objeto             | 29/12/2019 |
+|   7    |             Javascript: Array             | 01/01/2020 |
+|   8    |                   Node                    | 03/01/2020 |
+|   9    |                  ESNext                   | 04/01/2020 |
+|   10   |            Conceitos sobre Web            |            |
+|   11   |                   HTML                    |            |
+|   12   |                    CSS                    |            |
+|   13   |         Integrando HTML, CSS e JS         |            |
+|   14   |                   Ajax                    |            |
+|   15   |                   Gulp                    |            |
+|   16   |                  Webpack                  |            |
+|   17   |                  JQuery                   |            |
+|   18   |                 Bootstrap                 |            |
+|   19   | Projeto Galeria (Bootstrap/JQuery/Webpack |            |
+|   20   |                   React                   |            |
+|   21   |            Projeto Calculadora            |            |
+|   22   |         Projeto Cadastro Usuário          |            |
+|   23   |                   VueJS                   |            |
+|   24   |               Projeto VueJS               |            |
+|   25   |         Projeto Calculadora (Vue)         |            |
+|   26   |         Projeto Monty Hall (Vue)          |            |
+|   27   |         Banco de Dados Relacional         |            |
+|   28   |       Banco de Dados Não Relacional       |            |
+|   29   |                  Express                  |            |
+|   30   |  Projeto Base de Conhecimento - Backend   |            |
+|   31   |  Projeto Base de Conhecimento - Frontend  |            |
+|   32   | Publicando uma Aplicação VueJS na Amazon  |            |
+|   33   |                 Conclusão                 |            |
