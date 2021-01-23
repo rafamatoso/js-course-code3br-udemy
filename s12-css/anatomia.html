@@ -5,30 +5,32 @@
     <title>Anatomia CSS</title>
     <style>
       .selector {
-        color: #fff;
+        color: #222;
         font-size: 30px;
         text-align: center;
-        /* multiplos valores */
-        border: solid 5px navy; /* shorthand property */
-        font-family: Helvetica, sans-serif;
-        /* funcoes */
+        /* múltiplos valores */
+        border: solid 2px darkgray; /* shorthand property */
+        font-family: Helvetica, monospace; /* um ou outro */
+        /* funções */
         width: calc(100% - 100px);
-        background-color: rgb(34, 153, 189);
+        background-color: rgba(200, 200, 200);
       }
 
-      /* Usando uma pseudo-classe */
+      /* Pseudo-classes */
       .selector:hover {
-        background-color: orangered;
+        color: white;
+        background-color: black;
       }
 
-      /* Usando uma pseudo-elemento */
+      /* Pseudo-elementos */
       .selector::first-letter {
-        font-size: 45px;
+        font-size: 40px;
         font-weight: bold;
       }
 
-      /* Padrão de Nomenclatura? */
-      /* Dash-Case ou camelCase? */
+      /* Padrões de nomenclaturas */
+      /* dashed-case ou camelCase?  */
+      /* O que fizer mais sentido ao projeto e que seja consistente */
     </style>
   </head>
 
