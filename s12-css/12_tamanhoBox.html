@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Tamanho Box</title>
+    <style>
+      * {
+        /* Considera o conteúdo como largura da caixa (total) e adiciona outros espaçamentos (padding e border) */
+        box-sizing: content-box;
+        /* Considera a largura da caixa do elemento até a borda (total) */
+        box-sizing: border-box;
+      }
+
+      body {
+        font-size: 45px;
+        margin: 0;
+      }
+
+      div {
+        background-color: deepskyblue;
+        width: 500px;
+        width: 100%;
+        height: 300px;
+        padding: 100px;
+        border: solid 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>O tamanho do Box é...</div>
+  </body>
+</html>
