@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Overflow</title>
+    <style>
+      div {
+        font-size: 40px;
+        height: 100px;
+        width: 260px;
+        border: solid 3px;
+        /* Esconde tudo que ultrapassa o limite da caixa */
+        overflow: hidden;
+        /* Adiciona um scroll no eixo x e y se preciso caso exista algo fora do limite da caixa  */
+        overflow: scroll;
+        /* Mesmo caso de cima, mas só para o eixo x */
+        overflow-x: scroll;
+        overflow-y: hidden;
+        /* Mesmo caso de cima, mas só para o eixo y */
+        overflow-x: hidden;
+        overflow-y: scroll;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      TudoFuncionaMuitoBemEmCSS!!! Texto muito grande para caber nessa div. Já
+      pensou qual será o comportamento padrão?
+    </div>
+  </body>
+</html>
