@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Texto</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Indie+Flower"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        margin: 0;
+      }
+
+      html {
+        font-size: 20px;
+      }
+
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      div {
+        font-size: 50px;
+        margin-bottom: 1em;
+      }
+
+      p {
+        /* Valores padrão */
+        font-size: 1em;
+        font-size: 100%;
+        font-size: 16px;
+        font-size: 12pt;
+
+        /* Unidades absolutas */
+        font-size: 100px; /* tamanho do pixel é relativo ao tamanho da tela */
+        font-size: 72pt; /* pontos */
+        font-size: 1in; /* polegadas */
+
+        /* Unidades relativas */
+        font-size: 2.2em; /* relativo ao parente mais próximo (no caso a div)*/
+        font-size: 2.2rem; /* relativo ao html */
+        font-size: 50vh;
+        font-size: 6vw;
+
+        /* Famílias de fontes */
+        font-family: monospace;
+        /* font-family: Georgia, "Times New Roman", Times, serif; */
+        /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+        /* font-family: "Indie Flower", cursive; */
+
+        /* Peso da fonte */
+        font-weight: 100;
+        font-weight: bold;
+
+        /* Estilo da fonte */
+        font-style: italic;
+        font-style: normal;
+
+        /* Transfromação de texto */
+        text-transform: capitalize;
+
+        /* Decoração de texto */
+        text-decoration: none;
+
+        /* Separação de palavras de um texto */
+        word-spacing: -50px;
+        word-spacing: 50px;
+
+        /* Separação de letras de um texto */
+        letter-spacing: -8px;
+
+        /* Altura da linha do texto */
+        line-height: 1.2em;
+
+        /* Alinhamento do texto */
+        text-align: center;
+      }
+
+      .botao {
+        font-size: 28px;
+        text-decoration: none;
+        padding: 10px 30px;
+        border-radius: 25px;
+      }
+
+      .destaque {
+        color: #fff;
+        background: blue;
+        box-shadow: 2px 2px 1px 1px cornflowerblue;
+      }
+
+      .destaque:active {
+        box-shadow: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div>
+      <p>
+        Que texto
+        <br />legal!!!
+      </p>
+    </div>
+    <a href="http://google.com" class="botao destaque">Google</a>
+  </body>
+</html>
