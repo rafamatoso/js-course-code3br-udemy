@@ -7,4 +7,15 @@ module.exports = {
     filename: "principal.js",
     path: __dirname + "/public",
   },
+  module: {
+    rules: [
+      {
+        test: /\.css$/,
+        use: [
+          "style-loader", // Adiciona CSS a DOM injetando a tag <style>
+          "css-loader", // Interpreta @import, url()...
+        ],
+      },
+    ],
+  },
 };
