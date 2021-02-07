@@ -1,5 +1,19 @@
-import React from 'react';
-import './styles.css';
+import React from "react";
+import "./styles.css";
 
-export default props => 
-<button className="button">{props.label}</button>
+// eslint-disable-next-line import/no-anonymous-default-export
+export default ({ operation, double, triple, click, label }) => {
+  return (
+    <button
+      className={`
+            button 
+            ${operation ? "operation" : ""}
+            ${double ? "double" : ""}
+            ${triple ? "triple" : ""}
+      `}
+      onClick={(e) => click && click(label)}
+    >
+      {label}
+    </button>
+  );
+};
