@@ -4,7 +4,7 @@ import Header from "../Header";
 
 export default (props) => (
   <>
-    <Header></Header>
+    <Header {...props}></Header>
     <main className="content">Conteúdo</main>
   </>
 );
